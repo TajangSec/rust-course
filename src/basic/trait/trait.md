@@ -296,7 +296,7 @@ fn returns_summarizable() -> impl Summary {
     Weibo {
         username: String::from("sunface"),
         content: String::from(
-            "m1 max太厉害了，电脑再也不会卡",
+            "m4 max太厉害了，电脑再也不会卡",
         )
     }
 }
